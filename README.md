@@ -1,5 +1,5 @@
-Leonid Vinokurov
-33 y.o. 
-Junior Python Developer
-@cheremyak
-leoneed@me.com
+Leonid Vinokurov<br/>
+33 y.o. <br/>
+Junior Python Developer<br/>
+@cheremyak<br/>
+leoneed@me.com<br/>
